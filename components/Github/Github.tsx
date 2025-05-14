@@ -177,7 +177,7 @@ const Github = () => {
               </div>
               <h1 className="font-modernbold leading-tight text-3xl max-w-2xl py-1">
                 {userStats.Repositories ? username : "User not found"}{" "}
-                {userStats.Repositories && "'s Github."}
+                {userStats.Repositories && "'s Aura."}
               </h1>
             </div>
             <div className="grid grid-cols-4 grid-rows-4 md:grid-cols-8 md:grid-rows-4 gap-2 w-full md:h-[600px] max-sm:min-h-[100vh]">
