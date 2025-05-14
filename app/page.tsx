@@ -24,13 +24,23 @@ export default async function Home() {
         </h1>
         <GithubIcon size={18} />
       </Link>
-      <Image
+      {/* <Image
         src={`/assets/grad1.svg`}
         alt=""
         width={500}
         height={500}
         className="absolute object-cover inset-0 size-full opacity-40"
         priority
+      /> */}
+            <video
+        src="/assets/video.mp4"
+        width={500}
+        height={500}
+        className="absolute object-cover inset-0 size-full opacity-40"
+        autoPlay
+        loop
+        muted
+        playsInline
       />
       <svg
         className="pointer-events-none isolate z-[999999] size-full absolute inset-0 opacity-30 mix-blend-soft-light"
