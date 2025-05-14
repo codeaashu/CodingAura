@@ -1,2 +1,2 @@
-# Codes-Aura
+# CodesAura
 Showcase Your Coding Aura.
