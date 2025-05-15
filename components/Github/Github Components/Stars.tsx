@@ -10,7 +10,7 @@ const Stars = ({ classname, stars }: { classname: string; stars: number }) => {
     >
       {/* <HalfCircleGradient  /> */}
       <Image
-        src={`/assets/stargrid.jpeg`}
+        src={`/assets/grid/stargrid.jpeg`}
         alt=""
         width={500}
         height={500}

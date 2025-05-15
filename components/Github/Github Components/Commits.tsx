@@ -15,7 +15,7 @@ const Commit = ({
       className={`${classname} flex items-center justify-center flex-col gap-3 relative rounded-3xl overflow-hidden bg-black/90 z-[90]  group cursor-pointer`}
     >
       <Image
-        src={`/assets/commitgrid.jpeg`}
+        src={`/assets/grid/commitgrid.jpeg`}
         alt=""
         width={500}
         height={500}
@@ -32,6 +32,11 @@ const Commit = ({
         className={`font-modernbold absolute bottom-5 right-5 max-lg:right-3  ${formatNumber(commits).toString().length >= 4 ? "max-lg:text-5xl" : "max-lg:text-6xl"} text-7xl` }
       >
         {formatNumber(commits)}
+      </p>
+      <p>
+        <span className="text-xs text-gray-400 z-10 rounded-full bg-black/90 px2 ">
+          ()
+        </span>
       </p>
     </div>
   );
