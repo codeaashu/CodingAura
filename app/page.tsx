@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div className="w-full min-h-screen mx-auto p-5 max-sm:p-0 flex flex-col items-center justify-center overflow-hidden relative">
       <Link
-        href={`https://github.com/codeaashu`}
+        href={`https://github.com/codeaashu/CodingAura`}
         className="cursor-pointer flex items-center justify-start gap-2 z-10 w-full font-modernmono text-zinc-600 hover:text-white/60 px-5 max-sm:py-3"
       >
         <h1 className="flex items-center gap-2">
