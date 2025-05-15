@@ -8,7 +8,7 @@
   <br><h1 align="center"><a href="https://codingaura.vercel.app/"><strong>✦ Flex Your Coding Aura on Social ✦</strong></a><br>Generate. Download. Share.</h1><br>
 </div>
 <p align="center">
-  <img src="/public/assets/theme0.png" alt="Main Preview" width="850" />
+  <img src="/public/assets/theme0.png" alt="Theme 0" width="850" />
 </p>
 
 <table align="center">
