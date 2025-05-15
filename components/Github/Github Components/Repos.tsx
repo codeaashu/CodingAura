@@ -10,7 +10,7 @@ const Repos = ({ repos, classname }: { repos: number; classname: string }) => {
     >
       {/* <HalfCircleGradient  /> */}
       <Image
-        src={`/assets/grid/repogrid.jpeg`}
+        src={`/assets/repogrid/repogrid.jpeg`}
         alt=""
         width={500}
         height={500}

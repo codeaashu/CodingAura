@@ -16,7 +16,7 @@ const ContributedTo = ({
     >
       {/* <HalfCircleGradient  /> */}
       <Image
-        src={`/assets/grid/contributegrid.jpeg`}
+        src={`/assets/contributegrid/contributegrid.jpeg`}
         alt=""
         width={500}
         height={500}
