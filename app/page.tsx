@@ -13,14 +13,14 @@ export default async function Home() {
       >
         <h1 className="flex items-center gap-2">
           <Image
-            src="/assets/CodingAura.png"
+            src="/assets/Wordmark.png"
             alt="Coding Aura Logo"
             width={64}
             height={64}
             className="inline-block"
             priority
           />
-          <span className="font-extrabold text-2xl">Coding Aura</span>
+          {/* <span className="font-extrabold text-2xl">Coding Aura</span> */}
         </h1>
         <GithubIcon size={18} />
       </Link>
