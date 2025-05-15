@@ -75,7 +75,8 @@ const GithubInput = () => {
                 <FormControl>
                   <Input placeholder="Eg. codeaashu" {...field} className="bg-zinc-800/20 backdrop-blur-xl backdrop-saturate-200" />
                 </FormControl>
-                <FormDescription className="text-white/80 font-modernmono text-lg mt-1">Generate your Coding Aura</FormDescription>
+                <FormDescription className="text-white/80 font-modernmono text-lg mt-1">Flex Your Coding Aura on Social.</FormDescription>
+                <FormDescription className="text-white/80 font-modernmono text-lg mt-1">Generate. Download. Share.</FormDescription>
                 <FormMessage />
               </FormItem>
             )}
