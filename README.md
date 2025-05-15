@@ -11,15 +11,16 @@
   <img src="/public/assets/theme0.png" alt="Main Preview" width="850" />
 </p>
 
-<p align="center">
-  <b>Theme 1</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Theme 2</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Theme 3</b> &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img src="/public/assets/theme1.png" alt="Theme 1" width="200" />
-  <img src="/public/assets/theme2.png" alt="Theme 2" width="200" />
-  <img src="/public/assets/theme3.png" alt="Theme 3" width="200" />
-</p>
+<table align="center">
+  <tr align="center">
+    <td><b>Theme 1</b></td>
+    <td><b>Theme 2</b></td>
+    <td><b>Theme 3</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="/public/assets/theme1.png" alt="Theme 1" width="250px" /></td>
+    <td><img src="/public/assets/theme2.png" alt="Theme 2" width="250px" /></td>
+    <td><img src="/public/assets/theme3.png" alt="Theme 3" width="250px" /></td>
+  </tr>
+</table>
 
