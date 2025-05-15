@@ -1,6 +1,6 @@
 <div align="center"> 
 <a href="https://www.devdisplay.org/" target="_blank"><img src="./public/assets/PoweredByDevDisplay.png" width="300px" /></a>
-</div></br></br>
+</div></br>
 
 <div align="center">
     <img src="/public/assets/CodingAura..png" alt="Coding Aura" width="200px" />
