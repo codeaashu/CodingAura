@@ -96,13 +96,13 @@ const Github = () => {
           <Select
             onValueChange={(value) => {
               const imageMap: Record<string, string> = {
-                apple: "assets/BG1.png",
-                banana: "assets/BG5.png",
-                blueberry: "assets/BGG3.png",
-                grapes: "assets/black.png",
+                apple: "/assets/BG1.png",
+                banana: "/assets/BG5.png",
+                blueberry: "/assets/BGG3.png",
+                grapes: "/assets/black.png",
               };
-              setSelectedImage(`/${imageMap[value]}`);
-              setBackground(`${imageMap[value]}`);
+              setSelectedImage(imageMap[value]);
+              setBackground(imageMap[value]);
             }}
           >
             <SelectTrigger className="p-2 relative rounded-full overflow-hidden">
@@ -118,7 +118,7 @@ const Github = () => {
               <SelectGroup>
                 <SelectItem value="apple">
                   <Image
-                    src={`/assets/frame2.svg`}
+                    src={`/assets/BG1.png`}
                     alt=""
                     width={100}
                     height={100}
@@ -128,7 +128,7 @@ const Github = () => {
                 <SelectItem value="banana">
                   {" "}
                   <Image
-                    src={`/assets/frame7.svg`}
+                    src={`/assets/BG5.png`}
                     alt=""
                     width={100}
                     height={100}
@@ -138,7 +138,7 @@ const Github = () => {
                 <SelectItem value="blueberry">
                   {" "}
                   <Image
-                    src={`/assets/frame9.svg`}
+                    src={`/assets/BGG3.png`}
                     alt=""
                     width={100}
                     height={100}
@@ -239,7 +239,7 @@ const Github = () => {
             </div>
           </div>
         )}
-        </div>
+      </div>
       {!loading && (
         <Button
           onClick={handleDownloadImage}
