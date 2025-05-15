@@ -8,7 +8,7 @@
   <br><h1 align="center"><a href="https://codingaura.vercel.app/"><strong>✦ Flex Your Coding Aura on Social ✦</strong></a><br>Generate. Download. Share.</h1><br>
 </div>
 <p align="center">
-  <img src="/public/assets/theme0.png" alt="Theme 0" width="850" />
+  <img src="/public/assets/theme0.png" alt="Theme0" width="850" />
 </p>
 
 <table align="center">
@@ -18,9 +18,9 @@
     <td><b>Theme 3</b></td>
   </tr>
   <tr align="center">
-    <td><img src="/public/assets/theme1.png" alt="Theme 1" width="250px" /></td>
-    <td><img src="/public/assets/theme2.png" alt="Theme 2" width="250px" /></td>
-    <td><img src="/public/assets/theme3.png" alt="Theme 3" width="250px" /></td>
+    <td><img src="/public/assets/theme1.png" alt="Theme1" width="250px" /></td>
+    <td><img src="/public/assets/theme2.png" alt="Theme2" width="250px" /></td>
+    <td><img src="/public/assets/theme3.png" alt="Theme3" width="250px" /></td>
   </tr>
 </table>
 
