@@ -33,11 +33,6 @@ const Commit = ({
       >
         {formatNumber(commits)}
       </p>
-      <p>
-        <span className="text-xs text-gray-400 z-10 rounded-full bg-black/90 px2 ">
-          ()
-        </span>
-      </p>
     </div>
   );
 };
