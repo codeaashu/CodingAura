@@ -96,9 +96,9 @@ const Github = () => {
           <Select
             onValueChange={(value) => {
               const imageMap: Record<string, string> = {
-                apple: "assets/BG1.jpeg",
-                banana: "assets/BG2.jpg",
-                blueberry: "assets/BG3.jpg",
+                apple: "assets/BG1.png",
+                banana: "assets/BG5.png",
+                blueberry: "assets/BGG3.png",
                 grapes: "assets/black.png",
               };
               setSelectedImage(`/${imageMap[value]}`);
