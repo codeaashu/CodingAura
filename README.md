@@ -1,5 +1,5 @@
 <div align="center"> 
-<a href="https://www.devdisplay.org/" target="_blank"><img src="./public/PoweredByDevDisplay.png" width="300px" /></a>
+<a href="https://www.devdisplay.org/" target="_blank"><img src="./public/assets/PoweredByDevDisplay.png" width="300px" /></a>
 </div></br></br>
 
 <div align="center">
