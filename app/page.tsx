@@ -15,8 +15,8 @@ export default async function Home() {
           <Image
             src="/assets/Wordmark.png"
             alt="Coding Aura Logo"
-            width={64}
-            height={64}
+            width={260}
+            height={260}
             className="inline-block"
             priority
           />
