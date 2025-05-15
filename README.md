@@ -3,7 +3,7 @@
 </div></br>
 
 <div align="center">
-    <img src="/public/assets/CodingAura..png" alt="Coding Aura" width="200px" />
-    <img src="/public/assets/LetterMark.png" alt="Coding Aura" width="200px" />
+    <img src="/public/assets/CodingAura..png" alt="Coding Aura" width="200px" /><br>
+    <img src="/public/assets/LetterMark.png" alt="Coding Aura" width="250px" />
   <br><h1 align="center"><a href="https://codingaura.vercel.app/"><strong>✦ Flex Your Coding Aura ✦</strong></a></h1>
 </div><hr>
