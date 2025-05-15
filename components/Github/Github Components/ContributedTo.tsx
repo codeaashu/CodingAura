@@ -16,7 +16,7 @@ const ContributedTo = ({
     >
       {/* <HalfCircleGradient  /> */}
       <Image
-        src={`/assets/grad11.svg`}
+        src={`/assets/contributed.jpeg`}
         alt=""
         width={500}
         height={500}
@@ -25,7 +25,7 @@ const ContributedTo = ({
       />
       <div className="absolute top-3 left-3 max-sm:top-2 max-sm:left-2 max-lg:flex max-md:block gap-2" >
         <GitMerge className="text-white size-10" />
-        <p className="font-modernbold lg:text-lg lg:pt-0">Contrib<span className="sm:hidden">-</span> uted <br/> To:</p>
+        <p className="font-modernbold lg:text-lg lg:pt-0">Contrib<span className="sm:hidden">-</span>uted <br/> To:</p>
       </div>
       <p className={`font-modernbold absolute bottom-5 right-3  text-6xl max-sm:text-4xl max-lg:text-5xl ${formatNumber(contros).toString().length >= 3 ? "max-lg:right-1": "max-lg:right-2"} `}>{formatNumber(contros)}</p>
     </div>
