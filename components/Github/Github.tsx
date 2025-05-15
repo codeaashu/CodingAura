@@ -160,7 +160,16 @@ const Github = () => {
           </Select>
         </div>
       )}
-      <div id="github-ss" ref={githubRef} className="relative w-full flex items-center justify-center bg-transparent">
+      <div
+  id="github-ss"
+  ref={githubRef}
+  className="relative w-full flex items-center justify-center bg-transparent"
+  style={{
+    backgroundImage: `url(${selectedImage})`,
+    backgroundSize: "cover",
+    backgroundPosition: "center",
+  }}
+>
         {!loading && (
           <div
             className="text-white z-10 w-full lg:w-[100%] max-w-6xl mx-auto flex items-start justify-start flex-col p-3 relative pt-[3.5rem] "
