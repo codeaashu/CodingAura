@@ -8,18 +8,18 @@
   <br><h1 align="center"><a href="https://codingaura.vercel.app/"><strong>✦ Flex Your Coding Aura on Social ✦</strong></a><br>Generate. Download. Share.</h1><br>
 </div>
 <p align="center">
-  <img src="/public/assets/theme0.png" alt="Main Preview" width="600" />
-</p>
-
-<p align="center">
-  <img src="/public/assets/theme1.png" alt="Theme 1" width="200" />
-  <img src="/public/assets/theme2.png" alt="Theme 2" width="200" />
-  <img src="/public/assets/theme3.png" alt="Theme 3" width="200" />
+  <img src="/public/assets/theme0.png" alt="Main Preview" width="800" />
 </p>
 
 <p align="center">
   <b>Theme 1</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Theme 2</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <b>Theme 3</b> &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img src="/public/assets/theme1.png" alt="Theme 1" width="200" />
+  <img src="/public/assets/theme2.png" alt="Theme 2" width="200" />
+  <img src="/public/assets/theme3.png" alt="Theme 3" width="200" />
 </p>
 
