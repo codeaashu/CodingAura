@@ -9,7 +9,7 @@ const PRs = ({ pr, classname }: { pr: number; classname: string }) => {
     >
       {/* <HalfCircleGradient  /> */}
       <Image
-        src={`/assets/prgrid/prgrid.jpeg`}
+        src={`/assets/grad5.svg`}
         alt=""
         width={500}
         height={500}
