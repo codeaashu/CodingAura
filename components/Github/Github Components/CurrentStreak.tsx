@@ -19,7 +19,7 @@ const CurrentStreak = ({
       className={`${classname} flex items-center justify-center flex-col gap-3 relative rounded-3xl overflow-hidden p-5 max-lg:p-3 bg-black/90 z-[90]  group cursor-pointer`}
     >
       <Image
-        src={`/assets/frame9.svg`}
+        src={`/gstreak.jpeg`}
         alt=""
         width={500}
         height={500}
