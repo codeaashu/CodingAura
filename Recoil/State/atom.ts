@@ -23,5 +23,5 @@ export const graphState = atom<any>({
 
 export const backgroundState = atom<string>({
   key: 'backgroundState',
-  default: "assets/black.png"
+  default: "assets/BG1.png"
 })

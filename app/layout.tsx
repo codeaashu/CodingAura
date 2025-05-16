@@ -22,7 +22,7 @@ const modernReg = localFont({
 
 export const metadata: Metadata = {
   title: "Coding Aura",
-  description: "Showcase Your Coding Aura",
+  description: "Flex Your Coding Aura",
 };
 
 export default function RootLayout({

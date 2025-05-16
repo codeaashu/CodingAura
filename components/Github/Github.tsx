@@ -38,7 +38,7 @@ const Github = () => {
   const loading = useRecoilValue(loadingState);
   const username = useRecoilValue(usernameState);
   const [background, setBackground] = useRecoilState(backgroundState);
-  const [selectedImage, setSelectedImage] = useState<string>("/assets/black.png");
+  const [selectedImage, setSelectedImage] = useState<string>("/assets/BG1.png");
 
   const githubRef = useRef<HTMLDivElement | null>(null);
 
