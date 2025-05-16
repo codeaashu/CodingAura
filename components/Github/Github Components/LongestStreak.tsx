@@ -18,7 +18,7 @@ const LongestStreak = ({
     <div className={`${classname} flex items-center justify-center flex-col gap-3 relative rounded-3xl overflow-hidden p-3 z-[90] bg-black/90 group cursor-pointer`}>
         {/* <HalfCircleGradient  /> */}
         <Image
-            src={`/assets/streak.jpeg`}
+            src={`/assets/frame7.svg`}
             alt=""
             width={500}
             height={500}
