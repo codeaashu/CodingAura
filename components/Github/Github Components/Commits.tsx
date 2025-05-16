@@ -15,7 +15,7 @@ const Commit = ({
       className={`${classname} flex items-center justify-center flex-col gap-3 relative rounded-3xl overflow-hidden bg-black/90 z-[90]  group cursor-pointer`}
     >
       <Image
-        src={`/assets/grad2.svg`}
+        src={`/gcommit.jpeg`}
         alt=""
         width={500}
         height={500}
