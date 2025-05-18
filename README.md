@@ -1,4 +1,4 @@
-          <div align="center"> 
+           <div align="center"> 
 <a href="https://www.devdisplay.org/" target="_blank"><img src="./public/assets/PoweredByDevDisplay.png" width="300px" /></a>
 </div></br>
 
