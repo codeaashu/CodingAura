@@ -5,7 +5,7 @@
 <div align="center">
     <img src="/public/assets/CodingAura..png" alt="Coding Aura" width="200px" /><br>
     <img src="/public/assets/LetterMark.png" alt="Coding Aura" width="250px" />
-  <br><h1 align="center"><a href="https://codingaura.vercel.app/"><strong>✦ Flex Your Coding Aura on Social. ✦</strong></a><br>Generate. Download. Share.</h1><br>
+  <br><h1 align="center"><a href="https://codingaura.vercel.app/"><strong>✦ Flex Your Coding Aura on Social ✦</strong></a><br>Generate. Download. Share.</h1><br>
 </div>
 <p align="center">
   <img src="/public/assets/theme0.png" alt="Theme0" width="850" />
